@@ -1,0 +1,12 @@
+check if browser suuports geo location 
+
+Set options for high accuracy , a 5-sec timer and no caching.
+
+User watchPosition to track the users location continusly.
+
+Emit the latitude nd longitude via socket with "send location".
+
+Create empty object markers.
+
+when recieveing loc data via sockets , extract id, latitude .
+

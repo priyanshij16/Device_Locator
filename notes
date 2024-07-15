@@ -1,0 +1,9 @@
+ Real time device Geo Location of device:
+
+sokcet.io runs on http server so have to create server is running on sokcetio
+
+socketio : library for real time appn. communication b/w client and server 
+
+ejs:EJS is a simple templating language that lets you generate HTML markup with plain JavaScript.
+
+leaflet a js library for interactive maps 
